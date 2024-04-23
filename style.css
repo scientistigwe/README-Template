@@ -1,0 +1,106 @@
+/*General Style */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    width: 100vw;
+    box-sizing: border-box;
+}
+
+.main-container {
+    margin: 60px;
+
+}
+
+.main-container h1 {
+    margin-bottom: 40px;
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+}
+
+/* Style for dropdown menus */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ccc;
+}
+
+.category {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.subcategories {
+    display: none;
+    padding-left: 20px;
+}
+
+.subcategories li {
+    list-style-type: none;
+}
+
+.category input[type="checkbox"] {
+    display: none;
+}
+
+.category input[type="checkbox"]+label {
+    cursor: pointer;
+    display: block;
+    padding: 10px 0;
+}
+
+.category input[type="checkbox"]+label::before {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #e80f0f;
+    border-radius: 3px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.category input[type="checkbox"]:checked+label::before {
+    background-color: #4CAF50;
+    border-color: #4CAF50;
+}
+
+.completed {
+    display: none;
+}
+
+.completed:checked+label::after {
+    content: 'Yes';
+    display: inline-block;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 4px;
+    padding: 5px 10px;
+    margin-left: 10px;
+}
+
+.button {
+    list-style-type: none;
+    cursor: pointer;
+    line-height: 1.5em;
+}
+
+.level-1-section,
+.level-2-section,
+.level-3-section,
+.level-4-section,
+.level-5-section,
+.level-6-section {
+    border: 2px solid rgb(14, 12, 9);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 60vw;
+    position: relative;
+
+    justify-content: center;
+    align-items: center;
+}
