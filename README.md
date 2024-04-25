@@ -74,7 +74,6 @@ Table of Contents
 <details>
 <summary><a href="#project-setup">SECTION 5: DEPLOYMENT AND CREDITS</a>
 </summary>
-    <li><a href="#contact">Contact</a></li>
         <li><a href="#final-product">Final Product</a></li>
         <li>
             <a href="#contact">Credits</a>
