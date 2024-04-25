@@ -509,7 +509,7 @@ reapeat for all user stories
 
 ### Template
 
-- This template was adopted and adapted from README.md templates published by <a href="https://github.com/Iris-Smok/Vannas-Beauty-Salon_PP1" alt="Github page of Othneil Drew">Iris Smok</a> and <a href="https://github.com/othneildrew/Best-README-Template" alt="Github page of Othneil Drew">Othneil Drew</a>.
+- This template was adopted and adapted from README.md templates published by <a href="https://github.com/Iris-Smok/Vannas-Beauty-Salon_PP1" alt="Github page of Iris Smok" target="_blank">Iris Smok</a> and <a href="https://github.com/othneildrew/Best-README-Template" alt="Github page of Othneil Drew" target="_blank">Othneil Drew</a>.
 
 ### Content
 
