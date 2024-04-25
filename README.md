@@ -1,9 +1,9 @@
 <a name="readme-top"></a>
 
 <!--
-*** Thank you for checking out and/or using this README-Template. If you have a suggestion
+*** Thank you for checking out and/or using this README Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
+*** or simply open an issue with the tag "improvement".
 *** Don't forget to give the project a star!
 -->
 
@@ -18,9 +18,13 @@
   <h1 align="center">PROJECT TITLE</h1>
 
   <p align="center">
-    A README template that can be adapted to suite your projects! (Replace with a short intro sentence about your project).
+    A README template that can be adapted to suite your projects!
+    <br>
+    (Replace with a short intro sentence about your project).
+    <br />
     <br />
     <a href="https://github.com/path-to-readme-file"><strong>Explore the docs »</strong></a>
+    <br />
     <br />
 
 <!-- TABLE OF CONTENTS -->
@@ -33,8 +37,9 @@ Table of Contents
   <summary><a href="#introduction">SECTION 1: INTRODUCTION</a></summary>
         <li><a href="#about-the-project">About The Project</a>
         <li><a href='#ux'>User Experience (UX)</a></li>
-        <li><a href='#ux'>User Stories</a></li>
+        <li><a href='#user-stories'>User Stories</a></li>
         <li><a href="#technology-stack">Technology Stack</a></li>
+        <li><a href="#languages-frameworks-libraries">Languages, Frameworks and Libraries</a></li>
         <li><a href="#management-and-development">Project Management and Development Approach</a></li>
     </details>
     <!-- PROJECT SETUP SECTION -->
@@ -45,7 +50,7 @@ Table of Contents
         <li><a href="#installation">Installation</a></li>
     </details>
     <details>
-    <summary><a href="#infeatures-and-structure">SECTION 3: PROJECT FEATURES AND STRUCTURE</summary>
+    <summary><a href="#features-and-structure">SECTION 3: PROJECT FEATURES AND STRUCTURE</summary>
     <li><a href="#features">Features</a></li>
         <li><a href="#structure-and-navigation">Structure and Navigation</a></li>
         <li><a href="#wireframes">Wireframes</a></li>
@@ -59,12 +64,12 @@ Table of Contents
         </li>
 </details>
 <details>
-<summary><a href="#project-setup">SECTION 4: TESTING AND VALIDATION</a>
+<summary><a href="#testing-and-validation">SECTION 4: TESTING AND VALIDATION</a>
 </summary>
-    <li><a href="#Testing">Testing</a></li>
+    <li><a href="#testing">Testing</a></li>
         <li><a href="#validation">Validation</a>
         <ol>
-        <li><a href="#hTML-validator-report">HTML Validator Report</a></li>
+        <li><a href="#html-validator-report">HTML Validator Report</a></li>
         <li><a href="#css-validator-report">CSS Validator Report</a></li>
         </ol>
         </li>
@@ -72,30 +77,31 @@ Table of Contents
         <li><a href="#bugs-and-issues">Bugs and Issues</a></li>
 </details>
 <details>
-<summary><a href="#project-setup">SECTION 5: DEPLOYMENT AND CREDITS</a>
+<summary><a href="#deployment-and-credits">SECTION 5: DEPLOYMENT AND CREDITS</a>
 </summary>
         <li><a href="#final-product">Final Product</a></li>
         <li>
-            <a href="#contact">Credits</a>
+            <a href="#credits">Credits</a>
             <ol>
                 <li><a href="#template">Template</a></li>
                 <li><a href="#content">Content</a></li>
-                <li><a href="#media">Media</a></li>
+                <li><a href="#media2">Media</a></li>
             </ol>
         </li>
 <li><a href="#acknowledgments">Acknowledgments</a></li>
 <li><a href="#contact">Contact</a></li>
 </details>
 
-<!-- ABOUT THE PROJECT -->
+<!-- INTRODUCTION -->
 
 #
 
-# SECTION 1: INTRODUCTION
+<section>
+<h1 id="introduction">SECTION 1: INTRODUCTION </h1>
 
 This section contains summary information about the project, the user expections and tools used in building this solution.
 
-## About The Project
+<h2 id="about-the-project">About The Project</h2>
 
 <p align="center"><a href="https://path-to-deployed-site.com">"**name-of-project**"</a></p>
 
@@ -103,13 +109,11 @@ This section contains summary information about the project, the user expections
 <img src="./assets/images/screenshot.png" alt="Product Screenshot" width="600" height="600">
 </a>
 
-## User Experience (UX)
+<h2 id="ux">User Experience (UX)</h2>
 
 "**name-of-project**" is a software designed to provide abc services.
 
 The uniqueness of this project are:
-
-Here's why:
 
 - abc
 - xyz
@@ -118,7 +122,7 @@ Here's why:
 
 You can view the deployed website [here](https://path-to-deployed-site.com)
 
-## Users Stories
+<h2 id="user-stories">User Stories</h2>
 
 - As a new user of this website, I want to easily.......
 - As a new user of this website, I want to quickly.......
@@ -130,11 +134,11 @@ You can view the deployed website [here](https://path-to-deployed-site.com)
 - As a user, I want to follow xyz on social media.......
 - etc
 
-## Technology Stack
+<h2 id="technology-stack">Technology Stack</h2>
 
 This subsection outlines the technologies, frameworks, libraries, and tools used in the development of this project. It provides insight into the foundational components that power "**name-of-project**". Add-ons ad plugins are captured in the acknowledgements subsection (N/B: below are dummy samples. Replace with the actual project frameworks and libraries).
 
-## Languages, Frameworks and Libraries
+<h2 id="languages-frameworks-libraries">Languages, Frameworks and Libraries</h2>
 
 - <img src="./assets/icons/html5.svg" width="20px" align="top"><a href="https://en.wikipedia.org/wiki/HTML5"> HTML5</a> - Used for designing the structure of the project.
 
@@ -178,7 +182,7 @@ This subsection outlines the technologies, frameworks, libraries, and tools used
 
 - <img src="./assets/icons/jquery.png" width="20px" align="top"><a href="[JQuery-url]"> jQuery</a> - Used for simplifying HTML document traversing, event handling, and animation.
 
-## Project Management and Development Approach
+<h2 id="management-and-development">Project Management and Development Approach</h2>
 
 This project was implemented using the Agile Manifesto methodology. Below are the ways this project adhered to the 4 core values and 12 core principles of the aforementioned method:
 
@@ -205,15 +209,16 @@ This project was implemented using the Agile Manifesto methodology. Below are th
 - Regular reflection and adaptation for improvement: During sheduled standups, the implementation progress where constantly reviewed retrospectively. suggestions and observations where adapted, tested and adopted or abandoned.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- GETTING STARTED -->
+
+<!-- PROJECT SETUP -->
 
 #
 
-# SECTION 2: PROJECT SETUP
+<h1 id="project-setup">SECTION 2: PROJECT SETUP</h1>
 
 In this section, a detailed account of all requirements needed for "**name-of-project**" to be setup and running. It also includes installation instructions and a link to all necessary documentations for these tools.
 
-## Prerequisites
+<h2 id="prerequisites">Prerequisites</h2>
 
 Below are the list of softwares required to setup and start using "**name-of-project**" (N/B: if no installation is required. Then write: "**name-of-project**" does not rely on any external dependencies or services.):
 
@@ -223,7 +228,7 @@ Below are the list of softwares required to setup and start using "**name-of-pro
   ```
 - etc
 
-## Installation
+<h2 id="installation">Installation</h2>
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
@@ -245,11 +250,11 @@ _Below is an example of how you can instruct your audience on installing and set
 
 #
 
-# SECTION 3: PROJECT FEATURES AND STRUCTURE
+<h1 id="features-and-structure">SECTION 3: PROJECT FEATURES AND STRUCTURE</h1>
 
 This section encompasses the various elements and functionalities aimed at enhancing the user experience and achieving the goals of ["**name-of-project**"] website. It outlines the key features and structural components intended to provide visitors with a seamless and informative journey through the platform.
 
-## Features
+<h1 id="features">Features</h1>
 
 The key features are:
 
@@ -264,13 +269,13 @@ The key features are:
 - <strong>Responsive Design:</strong> Ensures that the website is accessible and functional across various devices and screen sizes, providing a consistent user experience.
 - <strong>Interactive Elements:</strong> Incorporates interactive elements such as buttons, sliders, and hover effects to enhance user engagement and interactivity, making the browsing experience more enjoyable and intuitive.
 
-## Future Features
+- Other features to be implemented in the future include:
 
 - <strong>Online Booking:</strong> Implementing an online booking system that enables clients to schedule appointments directly through the website, offering convenience and flexibility in selecting desired dates and times for their visits.
 
 - <strong>ChatBot:</strong>: An AI-powered self service system that will guide and direct clients based on their specific needs.
 
-## Structure and Navigation
+<h2 id="structure-and-navigation">Structure and Navigation</h2>
 
 - **File Organisation**
 
@@ -306,7 +311,7 @@ The key features are:
 - **Gallery** - Gallery has a dedicated page with a navigation link on both the navbar and one of the call-to-action buttons on the homepage.
 - **Contact Us** - This is located at the [left|right|center] of the footer.
 
-## Wireframes
+<h2 id="wireframes">Wireframes</h2>
 
 ### _File Organisation Tree_
 
@@ -350,31 +355,13 @@ The key features are:
 <img src="wireframe/mobile-home-page.png" width="400" height="1000">
 </p>
 
-### _Mobile View - Our Team_
+<h2 id="design-and-styling">Design and Styling</h2>
 
-<p align="center">
-<img src="wireframe/mobile-our-team.png" width="400" height="1000">
-</p>
-
-### _Mobile View - Gallery_
-
-<p align="center">
-<img src="wireframe/mobile-gallery.png" width="400" height="1000">
-</p>
-
-### _Mobile View - Contact Us_
-
-<p align="center">
-<img src="wireframe/mobile-contact.png" width="400" height="1000">
-</p>
-
-## Design and Styling
-
-### Design
+<h3 id="design">Design</h3>
 
 Given the serene ambiance of the establishment, the website echoes this sentiment through its design. Employing a predominantly white background conveys cleanliness, brightness, and sterility—attributes associated with a tranquil setting. Complementary background hues evoke a sense of calmness, while vibrant and colorful imagery aims to immerse visitors in the **[name of project]** ambiance.
 
-### Color
+<h3 id="color">Color</h3>
 
 - **Main background color - **#color hex** (color name)** - I chose this color because **\*\***\***\*\***
 - **h1 headings and nav bar - [color]** - reason
@@ -382,12 +369,12 @@ Given the serene ambiance of the establishment, the website echoes this sentimen
 - **p - [color]** - reason
 - **footer - [color]** - reason
 
-### Font
+<h3 id="font">Font</h3>
 
 - main font: Font name
 - Secondary font - Font name
 
-### Media
+<h3 id="media">Media</h3>
 
 **Hero image** - short description and reason for selection
 
@@ -409,15 +396,15 @@ Given the serene ambiance of the establishment, the website echoes this sentimen
 
 #
 
-# SECTION 4: TESTING AND VALIDATION
+<h1 id="testing-and-validation">SECTION 4: TESTING AND VALIDATION</h1>
 
-## Testing
+<h2 id="testing">Testing</h2>
 
 - **Browser Compatibility Testing:** Ensured compatibility with Chrome, Opera, Microsoft Edge, and Firefox desktop browsers.
 
 - **Responsiveness Testing:** Utilized Chrome Developer Tools to verify responsiveness across multiple devices: Desktop, Laptop, Moto G4, Galaxy S5, iPhone 5/SE, iPhone 6/7/8, iPhone 6/7/8 Plus, iPad, iPad Pro, Galaxy Fold
 
-## Validation
+<h2 id="validation">Validation</h2>
 
 The W3C Markup Validator and W3C CSS Validator Services were used to check my code for syntax errors in this project.
 
@@ -438,7 +425,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
 <img src="assets/images/readme/lighthouse.png" width="400" height="100%">
 </p>
 
-### **HTML Validator Report**
+<h3 id="html-validator-report">HTML Validator Report</h3>
 
 - _Warning_ : [details of any warning]
 
@@ -448,7 +435,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
 
   - [actions taken to remedy it].
 
-### **CSS Validator**
+<h3 id="css-validator-report">CSS Validator Report</h3>
 
 - _Warning_ : [details of any warning]
 
@@ -458,7 +445,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
 
   - [actions taken to remedy it].
 
-## User Story Testing
+<h2 id="user-story-testing">User Story Testing</h2>
 
 - **User Story 1:** [user story here]
 
@@ -482,7 +469,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
 
 reapeat for all user stories
 
-## Bugs and Issues
+<h2 id="bugs-and-issues">Bugs and Issues</h2>
 
 - Detail any bug and/or issues encountered, steps taken to correct it. Add images if possible.
 
@@ -490,9 +477,9 @@ reapeat for all user stories
 
 #
 
-# SECTION 5: DEPLOYMENT AND CREDITS
+<h2 id="deployment-and-credits">SECTION 5: DEPLOYMENT AND CREDITS</h2>
 
-## Deloyent
+<h2 id="final-product">Final Product</h2>
 
 - The product is live and can be seen on **[url of deployed site]**
 
@@ -504,26 +491,25 @@ reapeat for all user stories
 
 - Add images of various sections of the final product as above.
 
-## Credits
+<h2 id="credits">Credits</h2>
 
-### Template
+<h3 id="template">Template</h3>
 
 - This template was adopted and adapted from README.md templates published by <a href="https://github.com/Iris-Smok/Vannas-Beauty-Salon_PP1" alt="Github page of Iris Smok" target="_blank">Iris Smok</a> and <a href="https://github.com/othneildrew/Best-README-Template" alt="Github page of Othneil Drew" target="_blank">Othneil Drew</a>.
 
-### Content
+<h3 id="content">Content</h3>
 
 - All content was written by [**Your Name**]
 - Mention sections that was not original and the source where it was adopted from.
 
 - I utilized the guidance provided by [Responsive navbar and hamburger menu](https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci) to develop the responsive navbar and hamburger menu.
 
-### Media
+<h3 id="media2">Media</h3>
 
 - All images were taken from [Shutterstock](https://www.shutterstock.com/home) and [Unsplash photo](https://unsplash.com/)
 
 <!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
+<h2 id="acknowledgments">Acknowledgments</h2>
 
 Use this space to list individuals, groups or resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
@@ -538,10 +524,11 @@ Use this space to list individuals, groups or resources you find helpful and wou
 
 <!-- CONTACT -->
 
-## Contact
+<h2 id="contact">Contact</h2>
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+</section>
