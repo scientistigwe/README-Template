@@ -4,6 +4,7 @@
 *** Thank you for checking out and/or using this README Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "improvement".
+*** Adapt appropriately and replace all placeholder text with accurate information relating to your project.
 *** Don't forget to give the project a star!
 -->
 
@@ -188,25 +189,34 @@ This project was implemented using the Agile Manifesto methodology. Below are th
 
 <strong>Four Values of the Agile Manifesto:</strong>
 
-- People over processes:
-- Working software over documentation:
-- Customer collaboration over contracts:
-- Adaptability over rigid planning:
+- Vision 1: Customer collaboration over contract negotiation: **[Sample description]** The Team held [**number of meetings**] planning sessions via **Zoom, Google Meet, or Microsoft Teams**, ensuring alignment with customer needs and prioritizing features through user story mapping.
+- **a screenshot or graphic representation of a Zoom meeting with team members.**
+
+- Vision 2: Responding to change over following a plan: **[Sample description]**: Throughout the project, the team managed (
+  [![GitHub issues](https://img.shields.io/github/issues-closed/github-username/name-of-repository?)](https://github.com/github-username/name-of-repository/issues) + [![GitHub issues](https://img.shields.io/github/issues/github-username/name-of-repository?)](https://github.com/github-username/name-of-repository/issues) ) GitHub issues, adapting to changing requirements and feedback iteratively.
+  **A screenshot of the GitHub project board demonstrates their flexibility.**
+
+- Vision 3: Working software over comprehensive documentation: **[Sample description]** Achieved **[number of story points]** across **[number of sprints]**, emphasizing the focus on delivering functional software increments.
+- **A snapshot of the scrum/kanban board tracks their progress.**
+
+- Vision 4: Individuals and interactions over processes and tools
+  Description: Daily interactions on GitHub led to **[number of commits]**, fostering collaboration and knowledge sharing among team members.
+- **A snapshot of GitHub issue discussions illustrates their collaborative environment.**
 
 <strong>Twelve Principles of the Agile Manifesto</strong>
 
-- Early and continuous delivery of valuable software:
-- Welcome changing requirements, even late in development:
-- Frequent delivery of working software:
-- Close collaboration between business and developers:
-- Supporting motivated individuals and trusting them:
-- Face-to-face communication as the most effective method: A total of "**[no of meetings]**" Zoom and/or physical meetings where held to plan and implement "**[name-of-project]**"
-- Working software as the primary measure of progress:
-- Sustainable development pace:
-- Continuous attention to technical excellence and good design:
-- Simplicity as a key principle: User sttories where usedto create issues. Issues where handled in splints. Total of "**[no of issues]**" and "**[no of splints]**" issues and splints where created respectively.
-- Self-organizing teams foster better outcomes:
-- Regular reflection and adaptation for improvement: During sheduled standups, the implementation progress where constantly reviewed retrospectively. suggestions and observations where adapted, tested and adopted or abandoned.
+- Satisfy the customer: Held regular stakeholder meetings to ensure alignment with customer needs.
+- Deliver working software: Prioritized delivering functional increments in each sprint, allowing for early feedback.
+- Welcome changing requirements: Maintained open communication channels and adapted plans iteratively.
+- Collaborate daily: Conducted **(frequency of standup) stand-up** meetings to facilitate collaboration and problem-solving.
+- Face-to-face conversation: Utilized **in-person and/or virtual meetings (select one or all the options)** to enhance clarity and understanding.
+- Motivated individuals: Empowered team members through skill development and recognition.
+- Measure progress through working product: Evaluated progress based on delivered functionality in each sprint.
+- Promote sustainable development: Prioritized sustainability practices to ensure long-term success.
+- Simplicity is essential: Used MoSCoW prioritization and focused on MVP delivery to avoid unnecessary complexity.
+- Continuous attention to technical excellence: Adopted show and tell technique to ensure all team members learn while collaborating.
+- Self-organizing team: Encouraged autonomy and collaboration within the team.
+- Regular reflection on continuous improvement: Conducted regular retrospectives to identify areas for improvement.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -397,7 +407,7 @@ Given the serene ambiance of the establishment, the website echoes this sentimen
 #
 
 <h1 id="testing-and-validation">SECTION 4: TESTING AND VALIDATION</h1>
-
+- In this section, the functionalities of the final product was tested and validated to ensure consistency with user stories.
 <h2 id="testing">Testing</h2>
 
 - **Browser Compatibility Testing:** Ensured compatibility with Chrome, Opera, Microsoft Edge, and Firefox desktop browsers.
@@ -478,6 +488,8 @@ reapeat for all user stories
 #
 
 <h2 id="deployment-and-credits">SECTION 5: DEPLOYMENT AND CREDITS</h2>
+
+-In this section, the tested and validated product will be deployed and external resources used during this exercise will be mentioned.
 
 <h2 id="final-product">Final Product</h2>
 
