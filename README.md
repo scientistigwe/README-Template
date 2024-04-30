@@ -5,10 +5,12 @@
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "improvement".
 *** Adapt appropriately and replace all placeholder text with accurate information relating to your project.
+*** Do not forget to take the asset folder along with the README.md file so that the icons link will not be broken.
+*** Remove all *N/B* comments.
 *** Don't forget to give the project a star!
 -->
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO (N/B: Replace logo url and image to match your project)-->
 <br />
 <div align="center">
   <a href="https://github.com/scientistigwe/README-Template">
