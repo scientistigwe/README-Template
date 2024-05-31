@@ -6,22 +6,24 @@
 *** or simply open an issue with the tag "improvement".
 *** Adapt appropriately and replace all placeholder text with accurate information relating to your project.
 *** Do not forget to take the asset folder along with the README.md file so that the icons link will not be broken.
-*** Remove all *N/B* comments.
+*** Remove all *N/B* comments!
 *** Don't forget to give the project a star!
 -->
 
 <!-- PROJECT LOGO (N/B: Replace logo url and image to match your project)-->
 <br />
 <div align="center">
-  <a href="https://github.com/scientistigwe/MigratePro/">
-    <img src="./assets/images/migratepro-logo.png" alt="Project Logo" width="120" height="120">
+  <a href="https://github.com/scientistigwe/README-Template">
+    <img src="./assets/images/logo.png" alt="Project Logo" width="80" height="80">
     </div>
   </a>
 
-  <h1 align="center">MigratePro</h1>
+  <h1 align="center">PROJECT TITLE</h1>
 
   <p align="center">
-    MigratePro is an AI-powered Migration guide which will help migrates from African in particular to live their abroad dreams.
+    A README template that can be adapted to suite your projects!
+    <br>
+    (Replace with a short intro sentence about your project).
     <br />
     <br />
     <a href="https://github.com/path-to-readme-file"><strong>Explore the docs »</strong></a>
